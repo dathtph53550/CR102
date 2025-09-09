@@ -1,0 +1,104 @@
+{
+    "Sach": [
+        {
+            "id": 1,
+            "ph56666_ten_sach_22042025": "Sách 1",
+            "ph56666_tac_gia_22042025": "Tác giả 1",
+            "ph56666_gia_sach_22042025": 100000,
+            "ph56666_the_loai_22042025": "Thể loại 1",
+            "ph56666_nam_phat_hanh_22042025": 2020,
+            "ph56666_mo_ta_22042025": "Mô tả sách 1",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 1"
+        },
+        {
+            "id": 2,
+            "ph56666_ten_sach_22042025": "Sách 2",
+            "ph56666_tac_gia_22042025": "Tác giả 2",
+            "ph56666_gia_sach_22042025": 120000,
+            "ph56666_the_loai_22042025": "Thể loại 2",
+            "ph56666_nam_phat_hanh_22042025": 2021,
+            "ph56666_mo_ta_22042025": "Mô tả sách 2",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 2"
+        },
+        {
+            "id": 3,
+            "ph56666_ten_sach_22042025": "Sách 3",
+            "ph56666_tac_gia_22042025": "Tác giả 3",
+            "ph56666_gia_sach_22042025": 95000,
+            "ph56666_the_loai_22042025": "Thể loại 3",
+            "ph56666_nam_phat_hanh_22042025": 2019,
+            "ph56666_mo_ta_22042025": "Mô tả sách 3",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 3"
+        },
+        {
+            "id": 4,
+            "ph56666_ten_sach_22042025": "Sách 4",
+            "ph56666_tac_gia_22042025": "Tác giả 4",
+            "ph56666_gia_sach_22042025": 135000,
+            "ph56666_the_loai_22042025": "Thể loại 4",
+            "ph56666_nam_phat_hanh_22042025": 2022,
+            "ph56666_mo_ta_22042025": "Mô tả sách 4",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 4"
+        },
+        {
+            "id": 5,
+            "ph56666_ten_sach_22042025": "Sách 5",
+            "ph56666_tac_gia_22042025": "Tác giả 5",
+            "ph56666_gia_sach_22042025": 110000,
+            "ph56666_the_loai_22042025": "Thể loại 5",
+            "ph56666_nam_phat_hanh_22042025": 2018,
+            "ph56666_mo_ta_22042025": "Mô tả sách 5",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 5"
+        },
+        {
+            "id": 6,
+            "ph56666_ten_sach_22042025": "Sách 6",
+            "ph56666_tac_gia_22042025": "Tác giả 6",
+            "ph56666_gia_sach_22042025": 98000,
+            "ph56666_the_loai_22042025": "Thể loại 6",
+            "ph56666_nam_phat_hanh_22042025": 2023,
+            "ph56666_mo_ta_22042025": "Mô tả sách 6",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 6"
+        },
+        {
+            "id": 7,
+            "ph56666_ten_sach_22042025": "Sách 7",
+            "ph56666_tac_gia_22042025": "Tác giả 7",
+            "ph56666_gia_sach_22042025": 89000,
+            "ph56666_the_loai_22042025": "Thể loại 7",
+            "ph56666_nam_phat_hanh_22042025": 2017,
+            "ph56666_mo_ta_22042025": "Mô tả sách 7",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 7"
+        },
+        {
+            "id": 8,
+            "ph56666_ten_sach_22042025": "Sách 8",
+            "ph56666_tac_gia_22042025": "Tác giả 8",
+            "ph56666_gia_sach_22042025": 105000,
+            "ph56666_the_loai_22042025": "Thể loại 8",
+            "ph56666_nam_phat_hanh_22042025": 2021,
+            "ph56666_mo_ta_22042025": "Mô tả sách 8",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 8"
+        },
+        {
+            "id": 9,
+            "ph56666_ten_sach_22042025": "Sách 9",
+            "ph56666_tac_gia_22042025": "Tác giả 9",
+            "ph56666_gia_sach_22042025": 99000,
+            "ph56666_the_loai_22042025": "Thể loại 9",
+            "ph56666_nam_phat_hanh_22042025": 2020,
+            "ph56666_mo_ta_22042025": "Mô tả sách 9",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 9"
+        },
+        {
+            "id": 10,
+            "ph56666_ten_sach_22042025": "Sách 10",
+            "ph56666_tac_gia_22042025": "Tác giả 10",
+            "ph56666_gia_sach_22042025": 150000,
+            "ph56666_the_loai_22042025": "Thể loại 10",
+            "ph56666_nam_phat_hanh_22042025": 2024,
+            "ph56666_mo_ta_22042025": "Mô tả sách 10",
+            "ph56666_anh_bia_22042025": "Ảnh bìa sách 10"
+        }
+    ]
+}

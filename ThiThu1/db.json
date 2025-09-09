@@ -1,0 +1,28 @@
+{
+  "XeMay": [
+    {
+      "ten_xe_ph53550": "Honda Wave Alpha 3",
+      "mau_sac_ph53550": "Đỏ",
+      "gia_ban_ph53550": 18000000,
+      "mo_ta_ph53550": "Xe máy số phổ thông tiết kiệm nhiên liệu",
+      "hinh_anh_ph53550": "https://i.pinimg.com/736x/41/36/c9/4136c9cf268c3a6424e1d09765856272.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "ten_xe_ph53550": "Yamaha Exciter",
+      "mau_sac_ph53550": "Xanh",
+      "gia_ban_ph53550": 50000000,
+      "mo_ta_ph53550": "Xe côn tay thể thao dành cho giới trẻ",
+      "hinh_anh_ph53550": "https://i.pinimg.com/736x/24/9f/61/249f61801a40204c0c0e9731783a2166.jpg"
+    },
+    {
+      "id": "3",
+      "ten_xe_ph53550": "Suzuki Raider",
+      "mau_sac_ph53550": "Đen",
+      "gia_ban_ph53550": 49000000,
+      "mo_ta_ph53550": "Xe côn tay thể thao phong cách mạnh mẽ",
+      "hinh_anh_ph53550": "https://i.pinimg.com/736x/5a/48/7a/5a487ac7dcbd3e56080fc6ffdadde916.jpg"
+    }
+  ]
+}

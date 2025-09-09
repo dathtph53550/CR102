@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "name": "Book 5",
+      "author": "Author 1",
+      "price": 100000,
+      "description": "Description 1",
+      "image": "https://i.pinimg.com/474x/ca/95/a7/ca95a7763aabcaedd2f148ef5e149dcf.jpg",
+      "id": "1"
+    }
+  ]
+}

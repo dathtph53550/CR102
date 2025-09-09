@@ -1,0 +1,397 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "full_name": "Nguyen Van A",
+      "email": "hoangdat07082005@gmail.com",
+      "password": "123456",
+      "theme": "light"
+    },
+    {
+      "id": "1744464593938",
+      "full_name": "Hoang Tien Dat",
+      "email": "test1@gmail.com",
+      "password": "1234567",
+      "theme": "light"
+    },
+    {
+      "id": "fbbb",
+      "full_name": "Hoang Tien Dat",
+      "email": "test2@gmail.com",
+      "password": "12345678",
+      "theme": "light"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Hoa Quả",
+      "image": "https://i.pinimg.com/736x/01/54/12/015412f40501b820f34257b1590af202.jpg"
+    },
+    {
+      "id": "c73a",
+      "name": "Bia",
+      "image": "https://i.pinimg.com/474x/6c/8c/d9/6c8cd90b92d4a3ff0209f063818f5b98.jpg"
+    },
+    {
+      "id": "f626",
+      "name": "Nước Ép",
+      "image": "https://i.pinimg.com/474x/58/fa/a9/58faa94356309ded12527ff47d51f8c7.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Fresh and juicy red apple",
+      "price": 25,
+      "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+      "category_id": "1",
+      "is_hot": true,
+      "is_favourite": true,
+      "viewed_at": "2025-08-09T19:12:05.972Z",
+      "created_at": "2025-03-25T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Orange Juice",
+      "description": "100% fresh orange juice",
+      "price": 25,
+      "image": "https://i.pinimg.com/736x/e5/2b/6f/e52b6fa6e0527d244e6eb838f6c7cd70.jpg",
+      "category_id": "1",
+      "is_hot": false,
+      "is_favourite": true,
+      "viewed_at": "2025-04-14T08:03:29.977Z",
+      "created_at": "2025-03-25T11:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Bell Pepper",
+      "description": "Ăn rất là ngon",
+      "price": 35,
+      "image": "https://i.pinimg.com/736x/56/cf/a2/56cfa233aca065e52bb6895bd7b036f6.jpg",
+      "category_id": "1",
+      "is_hot": true,
+      "is_favourite": false,
+      "viewed_at": "2025-04-12T19:21:12.190Z",
+      "created_at": "2025-03-25T11:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Ginger",
+      "description": "Gừng rất cay lại không ngon",
+      "price": 55,
+      "image": "https://i.pinimg.com/736x/48/af/1d/48af1ddf2184fc64b8e5ba8804244927.jpg",
+      "category_id": "1",
+      "is_hot": false,
+      "is_favourite": false,
+      "viewed_at": "2025-04-12T16:54:21.353Z",
+      "created_at": "2025-03-25T11:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Lemon Ginger Iced",
+      "description": "Chanh gừng đá lạnh",
+      "price": 25,
+      "image": "https://i.pinimg.com/474x/c3/89/81/c38981d19a82e6093fbc2cfb85ad01f1.jpg",
+      "category_id": "f626",
+      "is_hot": true,
+      "is_favourite": false,
+      "viewed_at": "2025-04-12T16:11:53.847Z",
+      "created_at": "2025-03-25T11:00:00Z"
+    },
+    {
+      "id": "f453",
+      "name": "Dâu Tây",
+      "description": "Ăn rất ngon và bổ nhé. Màu Hồng đậm đà",
+      "price": 20,
+      "image": "https://i.pinimg.com/474x/31/3b/d7/313bd79ac6b4e531bc32c21d2f143148.jpg",
+      "category_id": "1",
+      "is_hot": false,
+      "is_favourite": false,
+      "viewed_at": "2025-04-13T10:00:45.019Z",
+      "created_at": "2025-04-13T10:00:45.019Z"
+    },
+    {
+      "id": "a57b",
+      "name": "Nước Ổi 1",
+      "description": "Nước ổi mát mẻ. Sách ruột",
+      "price": 35,
+      "image": "https://i.pinimg.com/474x/cc/da/9f/ccda9f35016e337fa78488aa36f0e1d2.jpg",
+      "category_id": "f626",
+      "is_hot": false,
+      "is_favourite": false,
+      "viewed_at": "2025-04-13T10:03:30.299Z",
+      "created_at": "2025-04-13T10:03:30.299Z"
+    },
+    {
+      "id": "3a1d",
+      "name": "Nuoc Trai Cay 1",
+      "description": "Trai Cay Ngon",
+      "price": 23,
+      "image": "https://i.pinimg.com/474x/1a/74/6a/1a746a73efbf847c1823455ad37ebc97.jpg",
+      "category_id": "c73a",
+      "is_hot": false,
+      "is_favourite": false,
+      "viewed_at": "2025-04-14T08:06:17.985Z",
+      "created_at": "2025-04-14T08:06:17.985Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "total_price": 5.48,
+      "status": "Đang xử lý",
+      "created_at": "2025-03-24T12:00:00Z",
+      "nameOrder": "Nguyen Van A",
+      "addressOrder": "Hà Nội",
+      "phoneOrder": "0978965383",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 1.99,
+          "quantity": 21
+        },
+        {
+          "image": "https://i.pinimg.com/736x/e5/2b/6f/e52b6fa6e0527d244e6eb838f6c7cd70.jpg",
+          "name": "Orange Juice",
+          "price": 3.49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "8c00",
+      "user_id": "1744464593938",
+      "total_price": 12.46,
+      "status": "Đang giao hàng",
+      "created_at": "2025-04-12T16:52:25.779Z",
+      "nameOrder": "Hoang Tien Dat",
+      "addressOrder": "Baba",
+      "phoneOrder": "234234",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/e5/2b/6f/e52b6fa6e0527d244e6eb838f6c7cd70.jpg",
+          "name": "Orange Juice",
+          "price": 3.49,
+          "quantity": 3
+        },
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 1.99,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bfcd",
+      "user_id": "1744464593938",
+      "total_price": 8.46,
+      "status": "Đang giao hàng",
+      "created_at": "2025-04-12T16:54:29.513Z",
+      "nameOrder": "Hoang Tien Dat",
+      "addressOrder": "Ha Ha",
+      "phoneOrder": "2834",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 1.99,
+          "quantity": 3
+        },
+        {
+          "image": "https://i.pinimg.com/736x/48/af/1d/48af1ddf2184fc64b8e5ba8804244927.jpg",
+          "name": "Ginger",
+          "price": 2.49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ff6f",
+      "user_id": "1",
+      "total_price": 18.93,
+      "status": "Đã hủy",
+      "created_at": "2025-04-12T16:59:46.359Z",
+      "nameOrder": "Nguyen Van A",
+      "addressOrder": "Phan Van Truong, Cau Giay",
+      "phoneOrder": "0916604848",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 1.99,
+          "quantity": 3
+        },
+        {
+          "image": "https://i.pinimg.com/736x/e5/2b/6f/e52b6fa6e0527d244e6eb838f6c7cd70.jpg",
+          "name": "Orange Juice",
+          "price": 3.49,
+          "quantity": 3
+        },
+        {
+          "image": "https://i.pinimg.com/474x/c5/b7/7f/c5b77fda688ad986a5e8cd73a67a494c.jpg",
+          "name": "Banana",
+          "price": 2.49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "e5ad",
+      "user_id": "1744464593938",
+      "total_price": 150,
+      "status": "Hoàn thành",
+      "created_at": "2025-04-13T09:06:29.507Z",
+      "nameOrder": "Hoang Tien Dat",
+      "addressOrder": "Cau Giay, Ha Noi",
+      "phoneOrder": "0978965123",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 25,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "10dc",
+      "user_id": "fbbb",
+      "total_price": 25,
+      "status": "Hoàn thành",
+      "created_at": "2025-04-14T08:04:09.869Z",
+      "nameOrder": "Hoang Tien Dat",
+      "addressOrder": "Ha Noi",
+      "phoneOrder": "0916604848",
+      "order": [
+        {
+          "image": "https://i.pinimg.com/736x/74/c5/02/74c502c8f8c0b6598b7da798273b15b2.jpg",
+          "name": "Apple",
+          "price": 25,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "1dfb",
+      "user_id": "1744464593938",
+      "product_id": "1",
+      "quantity": 2,
+      "price": 25
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "product_id": "1",
+      "comment": "Very fresh and delicious!",
+      "rating": 5,
+      "created_at": "2025-03-25T13:00:00Z"
+    },
+    {
+      "id": "a8c8",
+      "product_id": "1",
+      "user_id": "1",
+      "comment": "Ngon ác",
+      "rating": 5,
+      "created_at": "2025-04-12T14:27:26.568Z"
+    },
+    {
+      "id": "5929",
+      "product_id": "2",
+      "user_id": "1",
+      "comment": "Không ngon lắm",
+      "rating": 4,
+      "created_at": "2025-04-12T14:27:48.345Z"
+    },
+    {
+      "id": "2b79",
+      "product_id": "1",
+      "user_id": "1744464593938",
+      "comment": "Khá Ngon đó",
+      "rating": 3,
+      "created_at": "2025-04-12T14:31:47.690Z"
+    },
+    {
+      "id": "eac2",
+      "product_id": "2",
+      "user_id": "1744464593938",
+      "comment": "Ngon nha",
+      "rating": 4,
+      "created_at": "2025-04-12T15:56:12.134Z"
+    },
+    {
+      "id": "8a79",
+      "product_id": "2",
+      "user_id": "fbbb",
+      "comment": "An khong ngon",
+      "rating": 2,
+      "created_at": "2025-04-14T08:03:38.283Z"
+    }
+  ],
+  "banner": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/25/e8/21/25e8216716f2ebbfd139983a4f75f6e5.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/d3/c1/e3/d3c1e371944943a8b278065172d7c6b9.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://i.pinimg.com/736x/dc/89/93/dc8993b69fb398566b74e13bd341defa.jpg"
+    }
+  ],
+  "notification": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "message": "You have a new message",
+      "created_at": "2025-03-25T13:00:00Z"
+    },
+    {
+      "id": "262f",
+      "user_id": "1744464593938",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-12T16:50:41.869Z"
+    },
+    {
+      "id": "92ca",
+      "user_id": "1744464593938",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-12T16:52:25.794Z"
+    },
+    {
+      "id": "b469",
+      "user_id": "1744464593938",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-12T16:54:29.521Z"
+    },
+    {
+      "id": "1ece",
+      "user_id": "1",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-12T16:59:46.381Z"
+    },
+    {
+      "id": "8da7",
+      "user_id": "1744464593938",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-13T09:06:29.522Z"
+    },
+    {
+      "id": "b2f0",
+      "user_id": "fbbb",
+      "message": "Bạn đã đặt hàng thành công !!",
+      "created_at": "2025-04-14T08:04:09.896Z"
+    }
+  ]
+}
